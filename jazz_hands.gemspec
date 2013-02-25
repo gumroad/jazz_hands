@@ -25,7 +25,7 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'pry-git', '~> 0.2.3'
   gem.add_runtime_dependency 'pry-stack_explorer', '~> 0.4.7'
   gem.add_runtime_dependency 'pry-remote', '>= 0.1.6'
-  gem.add_runtime_dependency 'pry-debugger', '~> 0.2.1'
+  gem.add_runtime_dependency 'pry-debugger', '>= 0.2.1'
   gem.add_runtime_dependency 'hirb', '~> 0.7.0'
   gem.add_runtime_dependency 'coolline', '>= 0.4.0'
   gem.add_runtime_dependency 'coderay', '~> 1.0.8'
